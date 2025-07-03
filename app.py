@@ -18,7 +18,7 @@ from components import (
 
 # Page configuration
 st.set_page_config(
-    page_title="PR Performance Hub",
+    page_title="New Balance Performance Hub",
     page_icon="📊",
     layout="wide"
 )
