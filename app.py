@@ -123,7 +123,7 @@ st.markdown(
         </div>
         <div style="text-align: center;">
             <h1 class="dashboard-title">
-                PR Performance Hub
+                New Balance Performance Hub
             </h1>
             <div class="tagline">Tracking Sales & Market Trends for Top PR Footwear Models</div>
             <div class="subtitle" style="font-size: 14px; color: #555;">Premium Running (PR) - The Leader in Athletic Footwear</div>
@@ -269,7 +269,7 @@ with main_container:
 st.markdown("""
 <div style="background-color: #2C82E5; color: white; padding: 15px 0; margin-top: 40px; text-align: center; border-top: 3px solid #98C1D9; font-size: 13px;">
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-        <div>© PR Performance Hub</div>
+        <div>© New Balance Performance Hub</div>
         <div>|</div>
         <div>Last Updated: {}</div>
         <div>|</div>
